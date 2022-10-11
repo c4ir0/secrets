@@ -16,5 +16,8 @@ if regex is not None:
             ips.append(match)
             print(match)
 
-nexus+password:asddsa
+nexus_password:asddsa
 password
+
+npmrc-auth
+npmrc_auth
