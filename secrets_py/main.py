@@ -15,9 +15,10 @@ if regex is not None:
         if match not in ips:
             ips.append(match)
             print(match)
-omise+key
+omise_key
 nexus_password:asddsa
 password
 
 npmrc-auth
 npmrc_auth
+oauth-token
