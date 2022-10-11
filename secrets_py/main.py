@@ -15,7 +15,7 @@ if regex is not None:
         if match not in ips:
             ips.append(match)
             print(match)
-
+omise+key
 nexus_password:asddsa
 password
 
