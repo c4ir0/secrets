@@ -16,3 +16,5 @@ if regex is not None:
             ips.append(match)
             print(match)
 
+nexus+password:asddsa
+password
